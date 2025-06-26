@@ -2,10 +2,10 @@
 
 ## 1. Student Details
 
-- **Full Name**:
-- **Admission Number**:
-- **GitHub Username**:
-- **Email**:
+- **Full Name**: Mbeva Benjamin Muuo
+- **Admission Number**: 151541
+- **GitHub Username**: GenuineCreators
+- **Email**: benjamin.mbeva@stathmore.edu
 
 ## 2. Deployed Portfolio Link
 
